@@ -11,6 +11,9 @@ Project has two Sections Student and Faculty :
 In Student you can participate in a Quiz.
 In Faculty you can create a Quiz
 
+How to Install:
+Web - https://champquizz.netlify.app/#/
+
 Approach:
 Optimised Code - Individual files and folder for each function, class or Widget
 State-Management tool - Provider
