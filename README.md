@@ -14,6 +14,9 @@ In Faculty you can create a Quiz
 Approach:
 Optimised Code - Individual files and folder for each function, class or Widget
 State-Management tool - Provider
+
+
+
 ScreenShots==========>>>>>>>>>>>>>>>>>>>
 
 ![pic1](https://github.com/dibbo54/quizapp/assets/136928607/81b2c72b-75a9-401c-a2a4-1bf3f214d9da)
